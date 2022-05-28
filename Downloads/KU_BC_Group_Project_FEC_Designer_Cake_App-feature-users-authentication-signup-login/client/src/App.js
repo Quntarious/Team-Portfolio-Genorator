@@ -7,7 +7,8 @@ import Signup from './pages/Signup';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Home from './pages/Home';
-import NotFound from './pages/NotFound'; 
+import NotFound from './pages/NotFound';
+import LinkablePictures from './components/LinkablePictures'; 
 
 import { setContext } from '@apollo/client/link/context';
 

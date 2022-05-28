@@ -27,5 +27,8 @@
   "homepage": "https://github.com/MercuryKTgithub/KU_BC_Group_Project_FEC_Designer_Cake_App#readme",
   "devDependencies": {
     "concurrently": "^7.2.1"
+  },
+  "dependencies": {
+    "react-router-dom": "^6.3.0"
   }
 }
